@@ -1,16 +1,61 @@
-# Reporte de testing: "Juego Lumbricina"
+```md
+# QA Documentation Project | Lumbricia
 
-En este proyecto se podra visualizar en formato PDF un informe sobre la calidad del juego Lumbricia. 
-El proceso de creación y seguimiento se realizo en la aplicacion AzureDevops, y Gamma para la creacion del reporte.
+Proyecto integral de QA Manual desarrollado sobre el juego Lumbricia.
 
-Dentro del informe se podrá encontrar evidencia del proyecto como capturas de pantalla de los items y en el orden siguiente:
+El objetivo fue aplicar el ciclo completo de Testing utilizando Azure DevOps para la gestión del proyecto y documentación profesional.
 
--Analisis de requerimiento
--Organizacion de features, user story con formato Gherkin, criterios de acpetación en Azure Devops
--Diseño casos de prueba utilizando tecnicas de caja negra.
--Ejecuion y resultados de los casos de prueba
--Reporte de bugs
--Recomendaciones finales.
+## Features
 
+- Análisis de requerimientos
+- User Stories
+- Gherkin
+- Criterios de aceptación
+- Diseño de Casos de Prueba
+- Ejecución
+- Reporte de Bugs
+- Informe Final de Calidad
 
-Link del juego: https://nahual.github.io/qc-lumbricina/
+## Herramientas
+
+- Azure DevOps
+- IA Gamma para la creación de presentación de informe 
+
+## Contenido
+
+El informe incluye:
+
+✔ Análisis funcional
+✔ Organización del backlog
+✔ Features
+✔ User Stories
+✔ Casos de prueba
+✔ Evidencias
+✔ Reporte de Bugs
+✔ Recomendaciones finales
+
+## Metodología
+
+Se aplicaron técnicas de:
+
+- Caja Negra:
+- Valores límite
+- Partición de equivalencia
+- Casos positivos
+- Casos negativos
+
+## Juego utilizado:
+
+https://nahual.github.io/qc-lumbricina/
+
+## Evidencias
+
+El PDF contiene capturas reales de:
+- Azure DevOps
+- Casos de prueba
+- Bugs
+- Resultados de ejecución
+
+## Resultado
+
+Este proyecto demuestra el proceso completo de QA Manual, desde el análisis de requisitos hasta la documentación final del aseguramiento de la calidad.
